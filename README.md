@@ -1,5 +1,4 @@
-# hello
-Introducing UContent
+# Introducing UContent
 
 A platform for end-to-end content managent.
 
@@ -11,6 +10,3 @@ Will handle:
 * Content-load: Manual
 * Content-load: Bulk
 * Workflows for all of the above
-
-
-Work in progress

@@ -1,7 +1,7 @@
 ---
-- Root
-  - web-ui
-    - description: "Web User interface"
-  - middleware
-    - description:
-    - components: "zmq or amqp?"
+- Root:
+  - web-ui:
+    description: "Web User interface"
+  - middleware:
+    description:
+    components: "zmq or amqp?"
